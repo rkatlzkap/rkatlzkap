@@ -1,4 +1,4 @@
-### Hi I'M Hyeokmin Kwon 👋
+### Hi I'm Hyeokmin Kwon 👋
 
 
 
@@ -13,4 +13,12 @@
  - Notion. https://www.notion.so/Impact-AI-536db85fa08647468043c574a4583127?pvs=4
  - Github. https://github.com/rkatlzkap
 
+Stack
 
+☞  python, C++, C, Matlab
+
+☞  VS Code, pyCharm
+
+☞  pytorch
+
+☞  github
