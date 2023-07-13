@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi I'M Hyeokmin Kwon 👋
 
-<!--
-**rkatlzkap/rkatlzkap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I’m currently studying about AI and Vision
+
+ 
+ Contact 
+ - Email. pos07039@gmail.com
+  
+ Channel
+ - Blog. https://m.blog.naver.com/hyuk_ming
+ - Notion. https://www.notion.so/Impact-AI-536db85fa08647468043c574a4583127?pvs=4
+ - Github. https://github.com/rkatlzkap
+
+
