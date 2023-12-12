@@ -24,7 +24,7 @@ Stack
 
 ☞  github
 
-☞  MongoDB
+☞  MongoDB, mariaDB, dBeaver
 
 Paper
  - H. Kwon and S. Kim, "Trend Analysis of Registration Technology Between Infrared Images," 2022 22nd International Conference on Control, Automation and Systems (ICCAS), Jeju, Korea
